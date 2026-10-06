@@ -1,0 +1,12 @@
+{
+  "name": "Foglio — Template per BOOX",
+  "short_name": "Foglio",
+  "description": "Crea template personalizzati per BOOX Note Air5 C.",
+  "lang": "it",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
