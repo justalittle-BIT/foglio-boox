@@ -1,5 +1,7 @@
 # Foglio BOOX
 
+Versione corrente: **0.1**.
+
 App Android offline per creare fogli personalizzati da usare come template nell'app Note dei dispositivi BOOX. Il profilo iniziale è Note Air5 C; sono disponibili anche altri profili BOOX e formati A4, A5 e Letter.
 
 > Disclaimer: vibe-coded with GPT-6 Luna.
